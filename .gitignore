@@ -1,3 +1,4 @@
 #Ignore datasets files
 *.csv
 Notebooks/.ipynb_checkpoints/*
+.DS_Store
